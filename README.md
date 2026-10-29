@@ -6,6 +6,12 @@ and window openings deducted, and a waste allowance. **Free.**
 This is the free half of [Takeoff Studio](https://tnnt.gumroad.com/l/takeoff-studio).
 It answers one question honestly: how much of each material do I have to buy?
 
+![Takeoff Lite panel in Blender](docs/panel.png)
+
+*The panel, on a 4 x 3 m room with one door and one window. Wall paint 33.11 m²
+after the door and window are taken out; floor tile 12.00 m²; 49.62 m² including
+10 percent waste.*
+
 ## What it does
 
 - **Area per material** — every polygon, world space, honouring object scale.
