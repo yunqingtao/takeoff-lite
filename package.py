@@ -6,7 +6,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "src")
 PKG = "takeoff_lite"
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 OUT_DIR = os.path.join(HERE, "dist")
 OUT = os.path.join(OUT_DIR, "takeoff_lite-%s.zip" % VERSION)
 

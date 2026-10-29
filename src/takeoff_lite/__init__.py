@@ -1,10 +1,10 @@
 bl_info = {
     "name": "Takeoff Lite",
     "author": "Tiger M.M",
-    "version": (0, 1, 0),
+    "version": (0, 1, 1),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Takeoff",
-    "description": "Surface area per material from your Blender model, with door and window openings deducted",
+    "description": "Surface area per material, openings deducted",
     "category": "Object",
 }
 

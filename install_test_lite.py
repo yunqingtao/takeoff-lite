@@ -10,7 +10,7 @@ import sys
 import zipfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ZIP = os.path.join(HERE, "dist", "takeoff_lite-0.1.0.zip")
+ZIP = os.path.join(HERE, "dist", "takeoff_lite-0.1.1.zip")
 
 import bpy
 import addon_utils
