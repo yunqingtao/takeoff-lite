@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "takeoff_lite"
+name = "Takeoff Lite"
+tagline = "Surface area per material, with door and window openings deducted"
+version = "0.1.0"
+type = "add-on"
+
+maintainer = "Tiger M.M"
+license = ["SPDX:GPL-3.0-or-later"]
+
+blender_version_min = "4.2.0"
+
+tags = ["Object", "Architecture"]

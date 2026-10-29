@@ -1,0 +1,17 @@
+# build output
+dist/
+# scratch: test logs, local install probes, downloaded bundles
+_dev/
+_inst_tmp/
+*.log
+
+# never commit anything that looks like a credential
+cookies.txt
+token.txt
+zip_b64.txt
+*.pem
+keys*.json
+
+# python bytecode
+__pycache__/
+*.pyc
